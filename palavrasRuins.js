@@ -1,4 +1,3 @@
-@@ -0,0 +1,124 @@
 export const PALAVRAS_RUINS = new Set([
     "que",
     "para",
